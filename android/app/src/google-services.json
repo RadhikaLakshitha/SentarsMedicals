@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "210400693823",
+    "firebase_url": "https://sentars-medicals-default-rtdb.firebaseio.com",
+    "project_id": "sentars-medicals",
+    "storage_bucket": "sentars-medicals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210400693823:android:dd7da2b71c06964d81328a",
+        "android_client_info": {
+          "package_name": "com.rd.sentars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210400693823-eqgtc37b646hb51p675gvs6uhop9qjei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rd.sentars",
+            "certificate_hash": "477b7f0b4bdebbf5a34e3f010ab42754f6c9a052"
+          }
+        },
+        {
+          "client_id": "210400693823-obhtevbe2r1h5n0ij5sr234rq08ojcot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR9l8B3Bwqmo1DgjCy4UgVEF6tkzbTZnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210400693823-obhtevbe2r1h5n0ij5sr234rq08ojcot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
